@@ -1,3 +1,5 @@
+** ChatGPT로 번역됨 **
+
 # kickstart.nvim
 
 ## 소개
